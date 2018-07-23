@@ -1,1 +1,4 @@
-Desafio do módulo 1 do go node.
+# GoNode
+---
+
+Repositório para o desafio do módulo 01.
